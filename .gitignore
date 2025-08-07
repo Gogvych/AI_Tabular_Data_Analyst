@@ -1,0 +1,12 @@
+# Ignore for the main project
+venv/
+__pycache__/
+backup/
+backend/
+
+# Next.js specific ignores
+frontend/.next/
+frontend/node_modules/
+
+# Private data
+.env
